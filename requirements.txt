@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+wfdb
+scikit-learn
+matplotlib
+jupyter
+notebook
+ipykernel
